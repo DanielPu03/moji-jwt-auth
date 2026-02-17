@@ -1,4 +1,4 @@
-import { SignupForm } from '../components/ui/signup-form.tsx'
+import { SignupForm } from '../components/auth/signup-form.tsx'
 import React from 'react'
 
 function SignUpPage() {
